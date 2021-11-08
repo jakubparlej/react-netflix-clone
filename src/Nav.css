@@ -1,0 +1,46 @@
+.nav {
+  position: fixed;
+  top: 0;
+  display: flex;
+  width: 100%;
+  padding: 20px;
+  height: 30px;
+  justify-content: space-between;
+  align-items: center;
+  background-image: linear-gradient(
+    0deg,
+    transparent,
+    rgba(14, 14, 14, 0.5),
+    #141414
+  );
+  transition: all 0.5s ease-in;
+  z-index: 1;
+}
+
+.nav__black {
+  background: #141414;
+}
+
+.nav__logo {
+  position: fixed;
+  width: 90px;
+  object-fit: contain;
+  left: 20px;
+}
+
+.nav__avatar {
+  position: fixed;
+  right: 20px;
+  width: 30px;
+  object-fit: contain;
+}
+
+@media (min-width: 640px) {
+  .nav__logo {
+    left: 60px;
+  }
+
+  .nav__avatar {
+    right: 60px;
+  }
+}
