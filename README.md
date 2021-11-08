@@ -1,5 +1,7 @@
 # Netflix Website Clone using React
 
+![Screenshot](./images/netflix-clone-preview.jpg)
+
 > Simple front-end Netflix website clone created with React, and TMDB API.
 
 > Live demo [https://netflix-clone-9f4f5.web.app/](https://netflix-clone-9f4f5.web.app/).
@@ -32,10 +34,6 @@ Project is created with:
 - Banner with random trending movie background, name and description
 - Movies categories with thumbnail sliders
 
-## Screenshots
-
-![](./images/netflix-clone-preview.jpg)
-
 ## Setup
 
 To run this project, install it locally using npm:
@@ -52,4 +50,4 @@ This project was based on [this tutorial](https://www.youtube.com/watch?v=XtMThy
 
 ## Contact
 
-Created by @jakubparlej - feel free to contact me!
+Created by [@jakubparlej](https://jprojects.pl) - feel free to contact me!
