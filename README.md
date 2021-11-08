@@ -14,10 +14,7 @@
 
 ## General info
 
-This project is created with React framework based on the Clever Programmer tutorial on Youtube.
-
-Link to the tutorial:
-[https://www.youtube.com/watch?v=XtMThy8QKqU&t](https://www.youtube.com/watch?v=XtMThy8QKqU&t)
+This project is created with React framework with integrated movies database (TMDB). This is my first React project.
 
 ## Technologies
 
